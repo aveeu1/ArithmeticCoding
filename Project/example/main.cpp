@@ -13,7 +13,7 @@ using namespace std;
 
 
 int main(int argc, char* argv[]) {
-	// Default parameters
+	// Default parameters for default states
 	int depth = 10;      // Default depth
 	int data_size = 50;  // Default data_size
 	string input_data = "1101010010110101010111001010101010100110101101001101";  // Default data sequence
